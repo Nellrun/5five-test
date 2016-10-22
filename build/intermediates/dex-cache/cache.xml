@@ -115,8 +115,17 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="6446e61c4245f323ccfe1899b69105bb14dec3fd">
+        sha1="40e15356c2a0e786fca28197ee349a5d92d5327a">
         <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e6895477d8cc94a74de9d6acb3807d639906f28f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
     </item>
     <item
         is-multidex="false"

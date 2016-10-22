@@ -1,26 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:orientation="horizontal" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <!--android:src="@drawable/ic_laun"/>-->
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@mipmap/ic_launcher"
-        android:id="@+id/userImg"
-        android:scaleType="matrix"
-        android:cropToPadding="false" />
-
-    <TextView
-        android:text="TextView"
+    <LinearLayout
+        android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/userName"
-        android:layout_weight="1"
-        android:textSize="36sp"
-        android:textAlignment="textStart" />
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/userName"
+            android:elevation="0dp"
+            android:gravity="center"
+            android:layout_weight="0.75"
+            android:textSize="24sp"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            app:srcCompat="@android:drawable/sym_def_app_icon"
+            android:id="@+id/userImg"
+            android:layout_weight="0.75" />
+
+    </LinearLayout>
 
 </LinearLayout>
