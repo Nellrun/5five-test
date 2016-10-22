@@ -59,6 +59,52 @@ public class MainActivity extends AppCompatActivity {
         lv.setAdapter(sa);
     }
 
+    private void loadData() {
+
+        findViewById(R.id.progressBar).setVisibility(View.VISIBLE);
+        findViewById(R.id.retryBut).setVisibility(View.INVISIBLE);
+
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl(BASE_URL)
+                .addConverterFactory(GsonConverterFactory.create())
+                .build();
+
+        GetUsersInterface g = retrofit.create(GetUsersInterface.class);
+        Call<Users> users = g.getUsers();
+
+
+        Toast.makeText(getApplicationContext(), "Получение списка...", Toast.LENGTH_LONG).show();
+
+
+        users.enqueue(new Callback<Users>() {
+
+            @Override
+            public void onResponse(Call<Users> call, Response<Users> response) {
+
+                findViewById(R.id.progressBar).setVisibility(View.INVISIBLE);
+
+                if (response.isSuccessful()) {
+                    Toast.makeText(getApplicationContext(),"Данные успешно загружены", Toast.LENGTH_LONG).show();
+
+                    usersList = response.body();
+                    fillActivity();
+
+                } else {
+                    Toast.makeText(getApplicationContext(),"Не удалось загрузить список", Toast.LENGTH_LONG).show();
+                }
+            }
+
+            @Override
+            public void onFailure(Call<Users> call, Throwable t) {
+                findViewById(R.id.progressBar).setVisibility(View.INVISIBLE);
+                findViewById(R.id.retryBut).setVisibility(View.VISIBLE);
+
+                Toast.makeText(getApplicationContext(),"Список не доступен", Toast.LENGTH_LONG).show();
+            }
+
+        });
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -68,8 +114,6 @@ public class MainActivity extends AppCompatActivity {
             fillActivity();
             return;
         }
-
-        findViewById(R.id.progressBar).setVisibility(View.VISIBLE);
 
         ListView lv = (ListView) findViewById(R.id.userListView);
 
@@ -99,42 +143,15 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-        Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl(BASE_URL)
-                .addConverterFactory(GsonConverterFactory.create())
-                .build();
-
-        GetUsersInterface g = retrofit.create(GetUsersInterface.class);
-        Call<Users> users = g.getUsers();
-
-
-        Toast.makeText(getApplicationContext(), "Получение списка...", Toast.LENGTH_LONG).show();
-
-
-        users.enqueue(new Callback<Users>() {
-
-                @Override
-            public void onResponse(Call<Users> call, Response<Users> response) {
-
-                findViewById(R.id.progressBar).setVisibility(View.INVISIBLE);
-
-                if (response.isSuccessful()) {
-                    Toast.makeText(getApplicationContext(),"Данные успешно загружены", Toast.LENGTH_LONG).show();
-
-                    usersList = response.body();
-                    fillActivity();
-
-                } else {
-                    Toast.makeText(getApplicationContext(),"Не удалось загрузить список", Toast.LENGTH_LONG).show();
-                }
-            }
-
+        Button retryBut = (Button) findViewById(R.id.retryBut);
+        retryBut.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onFailure(Call<Users> call, Throwable t) {
-                Toast.makeText(getApplicationContext(),"Список не доступен", Toast.LENGTH_LONG).show();
+            public void onClick(View view) {
+                loadData();
             }
-
         });
+
+        loadData();
+
     }
 }

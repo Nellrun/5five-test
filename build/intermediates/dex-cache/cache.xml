@@ -3,156 +3,75 @@
 
     <item
         is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_370703eb4e0c707f691149cf13a2b98e1b339175.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_af572f50e6b4ea6ba01ed89ff8106eda8a58072c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_15131a28e3950fc43518c8598d84848b08c3542b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9feaf1be26b1a489c5ae9b93f37c9ddddd71a7e3.jar" />
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_2af979cb8c194b30a03a4536c5f4dd8f15573d32.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_4c7a4a5073b0d35ebc17abb16f6837146c3827a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0240b9e09b51bca300bbffe811b0473ee35b2259.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_804917d1acae1b48480d43bf0026fb2c59c7dcec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_8486610d3257ee4f8237a889dcf06e26f8b82957.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_6918e5d5aad33139730e73f801c3b32dc67efed4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_f9398b63e1a6425cce5d4001ac71a3f6ee2394bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_8099e422a13a17fdde8efff34a29a9f546b2cffb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8ad7e37122659874225de25f18dfc536d7b02525">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/instant-run_385774de2502b429a3aa49c3720cc2c1aa4e89bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="40e15356c2a0e786fca28197ee349a5d92d5327a">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e6895477d8cc94a74de9d6acb3807d639906f28f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4351e04648f0c8713bd3f2fefa531471553b984f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_936223ee07c1b8d2db6cee31fe667ad6cad46d09.jar" />
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9ea1f67d7521c1013804c1d48d3a461637c9844d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_6ace40a99c7dc4218635ba63a33eaeb7a396661c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_3fbd79bf3ca079d69de8c0e1248d84e74ee6d91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0a959f3bdf031a71939dbcfdb2464e987c242803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_7b26dd456af37e798910c6c78cc33d054716a2dc.jar" />
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0a959f3bdf031a71939dbcfdb2464e987c242803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5fa3932bf347e288a1c151930a5a7d1b92a920e9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,7 +80,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_2a3ff1bfa04450359ce309c176e2c955a7cd8144.jar" />
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_2a3ff1bfa04450359ce309c176e2c955a7cd8144.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,25 +89,25 @@
         optimize="true"
         revision="24.0.2"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/gson-2.7_c246be005a3d4eaf1ef0c541329bb90f5b52fc9a.jar" />
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/gson-2.7_c246be005a3d4eaf1ef0c541329bb90f5b52fc9a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="true"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_3581543ef144695ad8151a1b0d01ffd17083c399.jar" />
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_928d2e8d046e0769f71327720a98d5f7b019918e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3c36aaafb22c93ba0ca7b4c8f5d20a2ec8529cce.jar" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/gson-2.7_c246be005a3d4eaf1ef0c541329bb90f5b52fc9a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -197,16 +116,286 @@
         optimize="true"
         revision="24.0.2"
         sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/okio-1.8.0_4a0682afcf73df6f253e7d8add600870acc39aad.jar" />
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/okio-1.8.0_4a0682afcf73df6f253e7d8add600870acc39aad.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/AndroidStudioProjects/5five/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_33513da2521a73d779db1070f4feb4caff473a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_928d2e8d046e0769f71327720a98d5f7b019918e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_33513da2521a73d779db1070f4feb4caff473a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5fa3932bf347e288a1c151930a5a7d1b92a920e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_370703eb4e0c707f691149cf13a2b98e1b339175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b9c8df176e32944086c6bba9925fe5202544531f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_15131a28e3950fc43518c8598d84848b08c3542b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_4e3f67c0041b42c56207c55dd43edbdfe4270117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/okio-1.8.0_4a0682afcf73df6f253e7d8add600870acc39aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_ba85bfb8b9dc58507e98400456b1ddfeacef3096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_2a3ff1bfa04450359ce309c176e2c955a7cd8144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb48296a782c450d8f05686fa725579f2993753a">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_90a296808142174c369ca8cf1f46d928e0d575a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_02781f62d80a8111f4c27ee46e4a44cdb11e0650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_ba85bfb8b9dc58507e98400456b1ddfeacef3096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_f9398b63e1a6425cce5d4001ac71a3f6ee2394bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_f9398b63e1a6425cce5d4001ac71a3f6ee2394bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_bb19802a14687c4847657b8a0262cc96241d25af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_bb19802a14687c4847657b8a0262cc96241d25af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_370703eb4e0c707f691149cf13a2b98e1b339175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_4e3f67c0041b42c56207c55dd43edbdfe4270117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f07471cc8daabba9b33b6c2492a169834e3c6749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_02781f62d80a8111f4c27ee46e4a44cdb11e0650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_a226a22af628c2f24470dc1ecf258cef2ae3f177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_3fbd79bf3ca079d69de8c0e1248d84e74ee6d91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_2af979cb8c194b30a03a4536c5f4dd8f15573d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_9ea1f67d7521c1013804c1d48d3a461637c9844d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_15131a28e3950fc43518c8598d84848b08c3542b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b9c8df176e32944086c6bba9925fe5202544531f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/root/AndroidStudioProjects/5five/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_3611f44a6507242a0429945181e7dada973ae853.jar" />
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_6ace40a99c7dc4218635ba63a33eaeb7a396661c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7906dda269574c8040f4400ba3a9269127dcfa1">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/instant-run_4c5d76b4ead68f7fdc67ed6b6f21a9d39d238319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/nellrun/Documents/AndroidStudioProjects/5Five/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_a226a22af628c2f24470dc1ecf258cef2ae3f177.jar" />
     </item>
 
 </items>

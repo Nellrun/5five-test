@@ -20,6 +20,15 @@
             android:id="@+id/progressBar"
             android:layout_height="wrap_content"
             android:layout_gravity="center"/>
+
+        <Button
+            android:text="Повторить"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/retryBut"
+            android:layout_gravity="center"
+            android:visibility="invisible"/>
+
     </FrameLayout>
 
     <ListView
